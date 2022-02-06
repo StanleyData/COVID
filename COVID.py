@@ -20,7 +20,7 @@ selected_boxy = st.sidebar.selectbox(
 if selected_boxy == 'Start':
     st.title('Covid-19 World Vaccination Progress')
     st.subheader('What is COVID-19?')
-    st.image('/Users/iiiii/Desktop/OIP.jpg')
+    st.image('OIP.jpg')
     st.markdown('COVID-19 is a new strain of coronavirus that has not been previously identified in humans. The COVID-19 is the cause of an outbreak of respiratory illness first detected in Wuhan, Hubei province, China')
     st.markdown('This deadly virus made a devastating effect on humanity and has killed over 5 mililion people from all around the world. Some are even children.')
     st.markdown('But we still have hope, a little below 7 billion people have taken the vaccine, to stop the virus from killing more people.')
